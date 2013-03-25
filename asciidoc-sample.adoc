@@ -1,0 +1,7 @@
+= AsciiDoc test
+:awestruct-layout: default
+
+[discrete, role="page-header"]
+= AsciiDoc test
+
+This is a sample http://asciidoc.org[AsciiDoc] file.
