@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 #gem 'awestruct', '~> 0.5.0'
 gem 'awestruct', :git => 'git://github.com/awestruct/awestruct.git'
