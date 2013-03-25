@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'awestruct', '0.4.6'
 gem 'yard', '~> 0.7.5'
